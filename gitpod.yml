@@ -1,4 +1,4 @@
-image: kdgosik/main-gitpod
+image: kdgosik/constan-gitpod
 ports:
   - port: 8888
     onOpen: ignore
