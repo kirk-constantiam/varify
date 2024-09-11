@@ -1,0 +1,8 @@
+image: kdgosik/main-gitpod
+ports:
+  - port: 8888
+    onOpen: ignore
+
+vscode:
+  extensions:
+    - bierner.markdown-mermaid
